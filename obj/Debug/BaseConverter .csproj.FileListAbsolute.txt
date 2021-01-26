@@ -1,0 +1,10 @@
+C:\Users\tamar\source\repos\CurrencyConverter\Converter\Converter\bin\Debug\Converter.exe.config
+C:\Users\tamar\source\repos\CurrencyConverter\Converter\Converter\bin\Debug\Converter.exe
+C:\Users\tamar\source\repos\CurrencyConverter\Converter\Converter\bin\Debug\Converter.pdb
+C:\Users\tamar\source\repos\CurrencyConverter\Converter\Converter\obj\Debug\BaseConverter .csprojAssemblyReference.cache
+C:\Users\tamar\source\repos\CurrencyConverter\Converter\Converter\obj\Debug\Converter.Properties.Resources.resources
+C:\Users\tamar\source\repos\CurrencyConverter\Converter\Converter\obj\Debug\BaseConverter .csproj.GenerateResource.cache
+C:\Users\tamar\source\repos\CurrencyConverter\Converter\Converter\obj\Debug\BaseConverter .csproj.CoreCompileInputs.cache
+C:\Users\tamar\source\repos\CurrencyConverter\Converter\Converter\obj\Debug\Converter.exe
+C:\Users\tamar\source\repos\CurrencyConverter\Converter\Converter\obj\Debug\Converter.pdb
+C:\Users\tamar\source\repos\CurrencyConverter\Converter\Converter\obj\Debug\BaseConverter.BaseForm.resources

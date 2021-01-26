@@ -1,0 +1,10 @@
+C:\Users\tamar\source\repos\CurrencyConverter\Converter\Converter\bin\Debug\WindowsApplication.exe.config
+C:\Users\tamar\source\repos\CurrencyConverter\Converter\Converter\bin\Debug\WindowsApplication.exe
+C:\Users\tamar\source\repos\CurrencyConverter\Converter\Converter\bin\Debug\WindowsApplication.pdb
+C:\Users\tamar\source\repos\CurrencyConverter\Converter\Converter\obj\x86\Debug\BaseConverter.vbprojAssemblyReference.cache
+C:\Users\tamar\source\repos\CurrencyConverter\Converter\Converter\obj\x86\Debug\BaseConverter.Form1.resources
+C:\Users\tamar\source\repos\CurrencyConverter\Converter\Converter\obj\x86\Debug\BaseConverter.Resources.resources
+C:\Users\tamar\source\repos\CurrencyConverter\Converter\Converter\obj\x86\Debug\BaseConverter.vbproj.GenerateResource.cache
+C:\Users\tamar\source\repos\CurrencyConverter\Converter\Converter\obj\x86\Debug\BaseConverter.vbproj.CoreCompileInputs.cache
+C:\Users\tamar\source\repos\CurrencyConverter\Converter\Converter\obj\x86\Debug\WindowsApplication.exe
+C:\Users\tamar\source\repos\CurrencyConverter\Converter\Converter\obj\x86\Debug\WindowsApplication.pdb
